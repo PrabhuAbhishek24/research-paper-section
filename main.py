@@ -100,7 +100,7 @@ st.markdown("---")
 
 
 # Research Search Instructions
-with st.expander("4️⃣ **Research Search**",expanded=True):
+with st.expander("1️⃣ **Research Search**",expanded=True):
     st.markdown("""
     - Search for research articles, papers, or journals in the medical and pharmaceutical domains.
     - **Steps**:
